@@ -10,7 +10,7 @@ cancer <- read_excel("E:\\Study\\R Projects\\Survival/Cancer_data.xlsx")
 tbl_df(cancer)
 glimpse(cancer)
 
-##Data manipilation
+##Data manipulation
 
 sum(is.na(cancer))
 
